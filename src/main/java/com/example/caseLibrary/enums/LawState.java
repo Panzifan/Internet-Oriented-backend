@@ -1,4 +1,4 @@
 package com.example.caseLibrary.enums;
 
-public class LawState {
+public enum LawState {
 }
